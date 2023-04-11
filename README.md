@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋, I'm Will 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Falling+Upwards+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Programmer, NHL enthusiast, Chess Nerd." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Canadian+Developer+.+Always+learning.;Falling+Upwards+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Programmer, NHL enthusiast, Chess Nerd." />
 </p>
 
 ### - Tools/Interests 🔗
@@ -21,7 +21,6 @@
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg" alt="PostgreSQL"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firebase.svg" alt="FireBase"></a> &nbsp;&nbsp;
 
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/arrow_back.svg" alt="Back Arrow"></a> &nbsp;&nbsp;
 
 <a target="_blank" href="https://leetcode.com/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/leetcode.svg" alt="LeetCode"></a> &nbsp;&nbsp;
 <a target="_blank" href="https://www.figma.com/@proxzima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/figma.svg" alt="Figma"></a> &nbsp;&nbsp;
