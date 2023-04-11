@@ -1,6 +1,6 @@
-<h1 align="center"> Hello! 👋, I'm Will 👨‍💻</h1>
+<h1 align="center"> Hello! I'm Will, A CS Student at UAlberta</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Canadian+Developer+.+Always+learning.;Falling+Upwards+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Programmer, NHL enthusiast, Chess Nerd." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Canadian+Software+Developer.;Chess+Nerd;NHL+Enthusiast+%E2%9D%A4%EF%B8%8F" alt="Programmer, NHL enthusiast, Chess Nerd." />
 </p>
 
 ### - Tools/Interests 🔗
