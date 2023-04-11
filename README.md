@@ -23,18 +23,10 @@
 
 
 <a target="_blank" href="https://leetcode.com/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/leetcode.svg" alt="LeetCode"></a> &nbsp;&nbsp;
-<a target="_blank" href="https://www.figma.com/@proxzima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/figma.svg" alt="Figma"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/neovim.svg" alt="NeoVim"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg" alt="Android Studio"></a>
+
+
 </p>
 
-### - Workspace 🖥️
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/graphics.svg" alt="NVIDIA 4070ti"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/processor.svg" alt="I5-13700k"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/laptop.svg" alt="Dell XPS 2-1"></a>
-</p>
 
 ### - Languages 🔭
 <p align="center" >
